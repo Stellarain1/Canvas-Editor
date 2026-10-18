@@ -14,9 +14,6 @@ Online feature's may come soon.
 | macOS (Intel) | `CanvasEditor-1.2.2b-macos-x86_64.zip` |
 | Linux (x64) | `CanvasEditor-1.2.2b-linux-x64.zip` |
 
-Each zip also contains `canvas-cli` (command line tools) and `canvas-mcp`
-(an MCP server so an AI agent can chart with it)/Assist with Charts)
-
 ## What Canvas adds
 
 - **Issue List**: Issue List allows you to see overlap's or other errors in your chart. You can see the issue by jumping over to where it is on the timeline. (there is a button)
