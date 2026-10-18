@@ -26,8 +26,9 @@ Supported types: `.mmws`, `.ccmmws`, `.sus`, MusicScoreData `.json`, `.usc`, Son
   (Canvas's own file format is `.ce`/`.mmws` still opens and exports)
 - **Score Preview** with the game's own UI art, card cut-ins and Fever!
 - **Video export** of the Score preview to `.mp4`.
-- **Auto charting**: analyses a song and charts any difficulty in the style of official charts. (BETA)
 - **AI agents (MCP)**: `canvas-mcp` lets an MCP client analyse a song, chart it and check it for issues.
+
+## If you have any assets to share or Idea's to improve Canvas Editor Please feel free to suggest them in Issue's!!
 
 ## Credits and licenses
 
