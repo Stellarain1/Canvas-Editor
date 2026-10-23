@@ -1,6 +1,6 @@
 # Canvas Editor
 
-A chart editor for Project SEKAI charts. Canvas Editor is able to open nearly any format of chart (as long as its for pjsk) and adds a lot on top.
+A chart editor for Project SEKAI charts. Canvas Editor is able to open nearly any format of chart (as long as its for pjsk)
 Online feature's may come soon.
 
 **Downloads are on the [Releases page](../../releases).**
@@ -21,9 +21,9 @@ Online feature's may come soon.
 - **Formats**: open anything, export Anything. 
 Supported types: `.mmws`, `.ccmmws`, `.sus`, MusicScoreData `.json`, `.usc`, Sonolus LevelData.
   (Canvas's own file format is `.ce`/`.mmws` still opens and exports)
-- **Score Preview** with the game's own UI art, card cut-ins and Fever!
+- **Score Preview** with the game's own UI art, card cut-ins, and much more!
 - **Video export** of the Score preview to `.mp4`.
-- **AI agents (MCP)**: `canvas-mcp` lets an MCP client analyse a song, chart it and check it for issues.
+- (insert other like 10 things canvas has)
 
 ## If you have any assets to share or Idea's to improve Canvas Editor Please feel free to suggest them in Issue's!!
 
