@@ -9,10 +9,10 @@ Online feature's may come soon.
 
 | Platform | File |
 |---|---|
-| Windows (x64) | `CanvasEditor-1.2.2b-windows-x64.zip` |
-| macOS (Apple silicon) | `CanvasEditor-1.2.2b-macos-arm64.zip` |
-| macOS (Intel) | `CanvasEditor-1.2.2b-macos-x86_64.zip` |
-| Linux (x64) | `CanvasEditor-1.2.2b-linux-x64.zip` |
+| Windows (x64) | `CanvasEditor-1.3.0b-windows-x64.zip` |
+| macOS (Apple silicon) | `CanvasEditor-1.3.0b-macos-arm64.zip` |
+| macOS (Intel) | `CanvasEditor-1.3.0b-macos-x86_64.zip` |
+| Linux (x64) | `CanvasEditor-1.3.0b-linux-x64.zip` |
 
 ## What Canvas adds
 
