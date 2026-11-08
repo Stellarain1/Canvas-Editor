@@ -1,0 +1,65 @@
+{
+ "format": "canvas-editor/deck",
+ "cards": [
+  {
+   "name": "初音ミク - 想いが重なる場所で",
+   "folder": "res021_no016",
+   "skill": "score",
+   "value": "140%",
+   "level": 4,
+   "rarity": 4,
+   "trained": true,
+   "trimmed": false,
+   "voice": true,
+   "source": "https://sekai.best/card/289"
+  },
+  {
+   "name": "初音ミク - せめて、わたしに",
+   "folder": "res021_no028",
+   "skill": "score",
+   "value": "140%",
+   "level": 4,
+   "rarity": 4,
+   "trained": true,
+   "trimmed": false,
+   "voice": true,
+   "source": "https://sekai.best/card/509"
+  },
+  {
+   "name": "初音ミク - ワンダー☆クリスマス！",
+   "folder": "res021_no011",
+   "skill": "judgment",
+   "value": "100%",
+   "level": 4,
+   "rarity": 4,
+   "trained": true,
+   "trimmed": false,
+   "voice": true,
+   "source": "https://sekai.best/card/145"
+  },
+  {
+   "name": "初音ミク - 育ちゆく音色",
+   "folder": "res021_no013",
+   "skill": "life",
+   "value": "100%",
+   "level": 4,
+   "rarity": 4,
+   "trained": true,
+   "trimmed": false,
+   "voice": true,
+   "source": "https://sekai.best/card/198"
+  },
+  {
+   "name": "初音ミク - 初めてのストリート！",
+   "folder": "res021_no033",
+   "skill": "score",
+   "value": "100%",
+   "level": 4,
+   "rarity": 4,
+   "trained": true,
+   "trimmed": false,
+   "voice": true,
+   "source": "https://sekai.best/card/622"
+  }
+ ]
+}

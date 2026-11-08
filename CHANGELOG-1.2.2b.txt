@@ -1,0 +1,57 @@
+Canvas Editor 1.2.2b Update.
+Added Feature's:
+
+1. Score Preview now uses the game's own UI art (from OpenSekai) in the game's own layout: score bar, life bar, combo, PERFECT and score rank. The rank letter glows and "SCORE RANK" is in the rank's color.
+
+2. Live Cards (Settings > Canvas > Live Cards). Pick the 5 cards Score Preview uses. Paste a sekai.best link (like https://sekai.best/card/1484) to grab an official card (trained or untrained), or use your own icon, cut-in art and voice line. You can also change each card's skill (Score UP, Judgement UP, Life Recovery).
+
+3. Card cut-ins like the game's: the card's scene zoomed in on the character, in a tilted panel with glass shards, taking turns on the right and left side. Plays the game's cut-in sound and the card's voice line. Shows in Score Preview and video export. (can be turned off)
+
+4. Co-op mode now has the member row under the score: card icons, everyone's combo, "YOU", and "OK!" during FEVER CHANCE.
+
+5. FEVER reworked. During FEVER CHANCE everything outside the lanes dims to half and the lane edges fill up: rainbow up to "FEVER!", then purple up to "SUPER FEVER!!", where it always ends. Then SUPER FEVER!! plays with its frame and particles around the play area and the whole editor.
+
+6. Note sounds are now the game's (from OpenSekai). 3 sets to pick from, plus the old MMW ones (Settings > General > Notes SE). The skill, FEVER, ALL PERFECT and cut-in sounds are the game's too.
+
+7. Charting timer in the top right: "Session" (since you opened Canvas) and "Total" (all your charting time). Right-click it to reset Total.
+
+8. Chart end: right-click the timeline > "Place End Here" to end your chart there, then drag the END flag to move it (double-click or "Remove End" to take it away). Without one, the end is worked out for you like before. It only lives in Canvas's own file, so exports stay exactly what Project SEKAI expects. ALL PERFECT always gets to finish.
+
+9. Frame rate setting (Settings > General > Video): Monitor (VSync), 60, 120, 144, 165, 240, 360, 480 or Unlimited.
+
+10. Option to switch the combo between the rainbow ALL PERFECT one (default) and the normal pink one (Settings > Canvas).
+
+11. Canvas Editor's own file format is now .ce (Canvas Editor). .mmws files still open, and you can still export .mmws for the original MikuMikuWorld.
+
+12. Auto Fix Chart Issues now fixes every overlap by itself, including hold points stacked on hold points.
+
+Bug fixes
+
+1. "ALL PERFECT!!" now has its see-through black background, blends like AviUtl's unmult (no washed-out colors), and plays at 60 FPS.
+
+2. New "+" icon, and the "+1003" score numbers are spaced out like the game.
+
+3. Skill panel no longer has lines on it.
+
+4. The note tool highlight in the toolbar is centered and is now a faint gray circle instead of green.
+
+5. Notes no longer look bent in Score Preview (same perspective as OpenSekai).
+
+6. Life bar numbers are smoother and moved left, away from the pause button.
+
+7. Text no longer runs out of its buttons (like "Discard Changes").
+
+8. Settings help text is a lot shorter.
+
+9. The FEVER border no longer flickers and sits on the edge of the preview.
+
+10. Live Mode in Video Export can be changed again (it was stuck when Draw UI was off).
+
+11. macOS: "About Canvas Editor" now opens Canvas's own About window, which closes normally.
+
+Note: Score UI skins made in 1.2.1 need to be made again (New Skin From Current), since the score UI is new.
+
+More Support!
+Windows, macOS (Apple Silicon and Intel) and Linux.
+
+download-links

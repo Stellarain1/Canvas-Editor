@@ -1,0 +1,16 @@
+#guide_neutral
+0,42,244,1
+#guide_red
+0,98,244,1
+#guide_green
+0,154,244,1
+#guide_blue
+0,210,244,1
+#guide_yellow
+0,266,244,1
+#guide_purple
+0,322,244,1
+#guide_cyan
+0,378,244,1
+#guide_black
+0,434,244,1

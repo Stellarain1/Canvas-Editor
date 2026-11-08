@@ -1,0 +1,4456 @@
+{
+ "hud/A": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   32,
+   34
+  ]
+ },
+ "hud/B": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5004
+  ],
+  "ppu": 108.0,
+  "size": [
+   32,
+   33
+  ]
+ },
+ "hud/C": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   32,
+   34
+  ]
+ },
+ "hud/S": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   32,
+   34
+  ]
+ },
+ "hud/bar_lifeGauge_gn": {
+  "border": [
+   11.0,
+   0.0,
+   11.0,
+   0.0
+  ],
+  "pivot": [
+   0.0,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   264,
+   16
+  ]
+ },
+ "hud/bar_lifeGauge_rd": {
+  "border": [
+   11.0,
+   0.0,
+   11.0,
+   0.0
+  ],
+  "pivot": [
+   0.0,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   264,
+   16
+  ]
+ },
+ "hud/bg_base_ingame_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   4,
+   4
+  ]
+ },
+ "hud/bg_lifeGauge": {
+  "border": [
+   138.97325,
+   0.0,
+   26.973253,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   173,
+   79
+  ]
+ },
+ "hud/bg_scoreGauge": {
+  "border": [
+   137.92387,
+   0.0,
+   30.973246,
+   0.0
+  ],
+  "pivot": [
+   0.4999,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   169,
+   79
+  ]
+ },
+ "hud/cardFrame_S_1": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   152,
+   152
+  ]
+ },
+ "hud/cardFrame_S_2": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   152,
+   152
+  ]
+ },
+ "hud/cardFrame_S_3": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   152,
+   152
+  ]
+ },
+ "hud/cardFrame_S_4": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   152,
+   152
+  ]
+ },
+ "hud/cardFrame_S_bd": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   152,
+   152
+  ]
+ },
+ "hud/eff_0_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5071
+  ],
+  "ppu": 108.0,
+  "size": [
+   179,
+   210
+  ]
+ },
+ "hud/eff_1_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5429,
+   0.5073
+  ],
+  "ppu": 108.0,
+  "size": [
+   139,
+   204
+  ]
+ },
+ "hud/eff_2_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4882,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   169,
+   209
+  ]
+ },
+ "hud/eff_3_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5058,
+   0.5047
+  ],
+  "ppu": 108.0,
+  "size": [
+   173,
+   211
+  ]
+ },
+ "hud/eff_4_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4972,
+   0.5097
+  ],
+  "ppu": 108.0,
+  "size": [
+   180,
+   205
+  ]
+ },
+ "hud/eff_5_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4914,
+   0.512
+  ],
+  "ppu": 108.0,
+  "size": [
+   174,
+   208
+  ]
+ },
+ "hud/eff_6_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5028,
+   0.5071
+  ],
+  "ppu": 108.0,
+  "size": [
+   178,
+   210
+  ]
+ },
+ "hud/eff_7_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4912,
+   0.5073
+  ],
+  "ppu": 108.0,
+  "size": [
+   170,
+   206
+  ]
+ },
+ "hud/eff_8_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4972,
+   0.5071
+  ],
+  "ppu": 108.0,
+  "size": [
+   178,
+   210
+  ]
+ },
+ "hud/eff_9_150": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5028,
+   0.5071
+  ],
+  "ppu": 108.0,
+  "size": [
+   178,
+   210
+  ]
+ },
+ "hud/eff_combo": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5025,
+   0.4556
+  ],
+  "ppu": 108.0,
+  "size": [
+   196,
+   78
+  ]
+ },
+ "hud/effect_lifeGauge": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   406,
+   136
+  ]
+ },
+ "hud/effect_scoreGauge": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   828,
+   198
+  ]
+ },
+ "hud/gauge_bar_ingame_freeLive_s": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.0,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   532,
+   24
+  ]
+ },
+ "hud/gauge_base_h16_dbl": {
+  "border": [
+   11.0,
+   0.0,
+   11.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   24,
+   16
+  ]
+ },
+ "hud/icon_heart_gn": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4996
+  ],
+  "ppu": 108.0,
+  "size": [
+   34,
+   31
+  ]
+ },
+ "hud/lane_skill": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 101.27157,
+  "size": [
+   2048,
+   1174
+  ]
+ },
+ "hud/meter_mark": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   22,
+   22
+  ]
+ },
+ "hud/number_48px_0_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5152,
+   0.5006
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   43
+  ]
+ },
+ "hud/number_48px_1_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.6381,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   21,
+   41
+  ]
+ },
+ "hud/number_48px_2_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4883
+  ],
+  "ppu": 100.0,
+  "size": [
+   31,
+   42
+  ]
+ },
+ "hud/number_48px_3_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5455,
+   0.5116
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   42
+  ]
+ },
+ "hud/number_48px_4_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5147,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   34,
+   41
+  ]
+ },
+ "hud/number_48px_5_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5147,
+   0.5122
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   42
+  ]
+ },
+ "hud/number_48px_6_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   33,
+   43
+  ]
+ },
+ "hud/number_48px_7_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4686,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   31,
+   41
+  ]
+ },
+ "hud/number_48px_8_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5152,
+   0.5006
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   43
+  ]
+ },
+ "hud/number_48px_9_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5295,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   33,
+   43
+  ]
+ },
+ "hud/number_48px_shadow_0": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5107,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   46,
+   56
+  ]
+ },
+ "hud/number_48px_shadow_1": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5831,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   35,
+   55
+  ]
+ },
+ "hud/number_48px_shadow_2": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4995,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   45,
+   55
+  ]
+ },
+ "hud/number_48px_shadow_3": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5222,
+   0.5002
+  ],
+  "ppu": 100.0,
+  "size": [
+   45,
+   55
+  ]
+ },
+ "hud/number_48px_shadow_4": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5008,
+   0.5004
+  ],
+  "ppu": 100.0,
+  "size": [
+   47,
+   55
+  ]
+ },
+ "hud/number_48px_shadow_5": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5007
+  ],
+  "ppu": 100.0,
+  "size": [
+   45,
+   55
+  ]
+ },
+ "hud/number_48px_shadow_6": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5101,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   46,
+   56
+  ]
+ },
+ "hud/number_48px_shadow_7": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4788,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   45,
+   55
+  ]
+ },
+ "hud/number_48px_shadow_8": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5112,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   46,
+   56
+  ]
+ },
+ "hud/number_48px_shadow_9": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5107,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   46,
+   56
+  ]
+ },
+ "hud/number_combo_154px_0_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5267
+  ],
+  "ppu": 108.0,
+  "size": [
+   115,
+   149
+  ]
+ },
+ "hud/number_combo_154px_1_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5899,
+   0.5277
+  ],
+  "ppu": 108.0,
+  "size": [
+   77,
+   143
+  ]
+ },
+ "hud/number_combo_154px_2_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4815,
+   0.5135
+  ],
+  "ppu": 108.0,
+  "size": [
+   107,
+   147
+  ]
+ },
+ "hud/number_combo_154px_3_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5179,
+   0.5232
+  ],
+  "ppu": 108.0,
+  "size": [
+   111,
+   150
+  ]
+ },
+ "hud/number_combo_154px_4_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4959,
+   0.5276
+  ],
+  "ppu": 108.0,
+  "size": [
+   116,
+   143
+  ]
+ },
+ "hud/number_combo_154px_5_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4956,
+   0.5375
+  ],
+  "ppu": 108.0,
+  "size": [
+   112,
+   146
+  ]
+ },
+ "hud/number_combo_154px_6_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5267
+  ],
+  "ppu": 108.0,
+  "size": [
+   115,
+   149
+  ]
+ },
+ "hud/number_combo_154px_7_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4815,
+   0.5278
+  ],
+  "ppu": 108.0,
+  "size": [
+   107,
+   143
+  ]
+ },
+ "hud/number_combo_154px_8_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4957,
+   0.5232
+  ],
+  "ppu": 108.0,
+  "size": [
+   116,
+   150
+  ]
+ },
+ "hud/number_combo_154px_9_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5087,
+   0.5267
+  ],
+  "ppu": 108.0,
+  "size": [
+   115,
+   149
+  ]
+ },
+ "hud/number_combo_ap_154px_0_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5267
+  ],
+  "ppu": 108.0,
+  "size": [
+   115,
+   149
+  ]
+ },
+ "hud/number_combo_ap_154px_1_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5899,
+   0.5277
+  ],
+  "ppu": 108.0,
+  "size": [
+   77,
+   143
+  ]
+ },
+ "hud/number_combo_ap_154px_2_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4815,
+   0.5135
+  ],
+  "ppu": 108.0,
+  "size": [
+   107,
+   147
+  ]
+ },
+ "hud/number_combo_ap_154px_3_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5179,
+   0.5232
+  ],
+  "ppu": 108.0,
+  "size": [
+   111,
+   150
+  ]
+ },
+ "hud/number_combo_ap_154px_4_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4959,
+   0.5276
+  ],
+  "ppu": 108.0,
+  "size": [
+   116,
+   143
+  ]
+ },
+ "hud/number_combo_ap_154px_5_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4956,
+   0.5375
+  ],
+  "ppu": 108.0,
+  "size": [
+   112,
+   146
+  ]
+ },
+ "hud/number_combo_ap_154px_6_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5267
+  ],
+  "ppu": 108.0,
+  "size": [
+   115,
+   149
+  ]
+ },
+ "hud/number_combo_ap_154px_7_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4815,
+   0.5278
+  ],
+  "ppu": 108.0,
+  "size": [
+   107,
+   143
+  ]
+ },
+ "hud/number_combo_ap_154px_8_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4957,
+   0.5232
+  ],
+  "ppu": 108.0,
+  "size": [
+   116,
+   150
+  ]
+ },
+ "hud/number_combo_ap_154px_9_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5087,
+   0.5267
+  ],
+  "ppu": 108.0,
+  "size": [
+   115,
+   149
+  ]
+ },
+ "hud/score_A": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4831
+  ],
+  "ppu": 108.0,
+  "size": [
+   76,
+   90
+  ]
+ },
+ "hud/score_B": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5058
+  ],
+  "ppu": 108.0,
+  "size": [
+   67,
+   86
+  ]
+ },
+ "hud/score_C": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5148,
+   0.5109
+  ],
+  "ppu": 108.0,
+  "size": [
+   67,
+   91
+  ]
+ },
+ "hud/score_D": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5005,
+   0.5058
+  ],
+  "ppu": 100.0,
+  "size": [
+   75,
+   86
+  ]
+ },
+ "hud/score_S": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5153,
+   0.5109
+  ],
+  "ppu": 108.0,
+  "size": [
+   65,
+   91
+  ]
+ },
+ "hud/skillLv_40px_1_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5016,
+   0.4721
+  ],
+  "ppu": 100.0,
+  "size": [
+   19,
+   35
+  ]
+ },
+ "hud/skillLv_40px_2_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4814,
+   0.4715
+  ],
+  "ppu": 100.0,
+  "size": [
+   26,
+   35
+  ]
+ },
+ "hud/skillLv_40px_3_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4991,
+   0.4865
+  ],
+  "ppu": 100.0,
+  "size": [
+   27,
+   36
+  ]
+ },
+ "hud/skillLv_40px_4_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4669,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   29,
+   35
+  ]
+ },
+ "hud/skillLv_40px_Lv_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   59,
+   35
+  ]
+ },
+ "hud/skillLv_40px_shadow_1": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4848,
+   0.4997
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   47
+  ]
+ },
+ "hud/skillLv_40px_shadow_2": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4997
+  ],
+  "ppu": 100.0,
+  "size": [
+   39,
+   47
+  ]
+ },
+ "hud/skillLv_40px_shadow_3": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4872,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   40,
+   48
+  ]
+ },
+ "hud/skillLv_40px_shadow_4": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4997,
+   0.4992
+  ],
+  "ppu": 100.0,
+  "size": [
+   41,
+   47
+  ]
+ },
+ "hud/skillLv_40px_shadow_Lv": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   72,
+   48
+  ]
+ },
+ "hud/text_outline_plus_36wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4857
+  ],
+  "ppu": 108.0,
+  "size": [
+   32,
+   34
+  ]
+ },
+ "hud/text_plus_36wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   31,
+   36
+  ]
+ },
+ "hud/txt_combo_ap_rbw": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4999,
+   0.5105
+  ],
+  "ppu": 108.0,
+  "size": [
+   147,
+   48
+  ]
+ },
+ "hud/txt_combo_pr": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5035,
+   0.4666
+  ],
+  "ppu": 108.0,
+  "size": [
+   144,
+   44
+  ]
+ },
+ "hud/txt_cutin_skill_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4998,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   87,
+   27
+  ]
+ },
+ "hud/txt_scoreRank_ingame_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   86,
+   14
+  ]
+ },
+ "hud/txt_skill_judge": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4328,
+   0.4889
+  ],
+  "ppu": 100.0,
+  "size": [
+   126,
+   42
+  ]
+ },
+ "hud/txt_skill_life": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5003,
+   0.4889
+  ],
+  "ppu": 100.0,
+  "size": [
+   143,
+   42
+  ]
+ },
+ "hud/txt_skill_scoreUp": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4626,
+   0.4884
+  ],
+  "ppu": 100.0,
+  "size": [
+   133,
+   40
+  ]
+ },
+ "judge/judge_auto": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4975,
+   0.5122
+  ],
+  "ppu": 108.0,
+  "size": [
+   200,
+   81
+  ]
+ },
+ "judge/judge_bad": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5031,
+   0.5062
+  ],
+  "ppu": 108.0,
+  "size": [
+   160,
+   80
+  ]
+ },
+ "judge/judge_good": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5023,
+   0.5122
+  ],
+  "ppu": 108.0,
+  "size": [
+   216,
+   81
+  ]
+ },
+ "judge/judge_great": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4958,
+   0.5062
+  ],
+  "ppu": 108.0,
+  "size": [
+   237,
+   80
+  ]
+ },
+ "judge/judge_miss": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5027,
+   0.5122
+  ],
+  "ppu": 108.0,
+  "size": [
+   182,
+   81
+  ]
+ },
+ "judge/judge_perfect": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5062
+  ],
+  "ppu": 108.0,
+  "size": [
+   309,
+   80
+  ]
+ },
+ "judge/judge_timing_fast": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   163,
+   50
+  ]
+ },
+ "judge/judge_timing_flick": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   203,
+   50
+  ]
+ },
+ "judge/judge_timing_late": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4995
+  ],
+  "ppu": 108.0,
+  "size": [
+   163,
+   49
+  ]
+ },
+ "live/bg_cutin_skill_judge": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   408,
+   136
+  ]
+ },
+ "live/bg_cutin_skill_life": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   408,
+   136
+  ]
+ },
+ "live/bg_cutin_skill_scoreUp": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   408,
+   136
+  ]
+ },
+ "live/btn_skip": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   96,
+   96
+  ]
+ },
+ "live/btn_stop": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   96,
+   96
+  ]
+ },
+ "live/icon_skill_judge": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5004
+  ],
+  "ppu": 100.0,
+  "size": [
+   87,
+   87
+  ]
+ },
+ "live/icon_skill_life": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.4884,
+   0.5302
+  ],
+  "ppu": 100.0,
+  "size": [
+   85,
+   82
+  ]
+ },
+ "live/icon_skill_scoreSupport": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   24,
+   32
+  ]
+ },
+ "live/icon_skill_scoreUp": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5062
+  ],
+  "ppu": 100.0,
+  "size": [
+   87,
+   80
+  ]
+ },
+ "live/label_autolive": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 108.0,
+  "size": [
+   330,
+   74
+  ]
+ },
+ "live/skillEffect_text_0": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   30,
+   48
+  ]
+ },
+ "live/skillEffect_text_1": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   29,
+   48
+  ]
+ },
+ "live/skillEffect_text_10": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   14,
+   48
+  ]
+ },
+ "live/skillEffect_text_11": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5334
+  ],
+  "ppu": 100.0,
+  "size": [
+   37,
+   44
+  ]
+ },
+ "live/skillEffect_text_12": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5719
+  ],
+  "ppu": 100.0,
+  "size": [
+   37,
+   41
+  ]
+ },
+ "live/skillEffect_text_2": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   48
+  ]
+ },
+ "live/skillEffect_text_3": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.4992
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   47
+  ]
+ },
+ "live/skillEffect_text_4": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   31,
+   48
+  ]
+ },
+ "live/skillEffect_text_5": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   48
+  ]
+ },
+ "live/skillEffect_text_6": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   48
+  ]
+ },
+ "live/skillEffect_text_7": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   48
+  ]
+ },
+ "live/skillEffect_text_8": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   33,
+   48
+  ]
+ },
+ "live/skillEffect_text_9": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 100.0,
+  "size": [
+   32,
+   48
+  ]
+ },
+ "notes/notes_icon_clear": {
+  "border": [
+   56.0,
+   56.0,
+   56.0,
+   56.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_among_line_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_among_line_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_among_line_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_among_line_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_among_line_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_among_line_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_line_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_line_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_line_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_line_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_line_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_clear_line_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_frick": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_frick_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_frick_l": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_frick_l_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_among_line_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_among_line_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_among_line_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_among_line_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_among_line_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_among_line_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_guide_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long2": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_amang_clear": {
+  "border": [
+   42.0,
+   0.0,
+   42.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   84,
+   20
+  ]
+ },
+ "notes/notes_icon_long_among": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_line_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_line_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_line_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_line_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_line_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_among_line_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_line_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_line_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_line_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_line_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_line_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_long_line_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_longline": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_longline_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_normal": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   111
+  ]
+ },
+ "notes/notes_icon_normal_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_trace": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   111
+  ]
+ },
+ "notes/notes_icon_trace_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracefrick": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracefrick_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracefrick_l": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracefrick_l_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracefrick_r": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracefrick_r_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracelong_line_easein": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracelong_line_easein_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracelong_line_easeout": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracelong_line_easeout_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracelong_line_linear": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "notes/notes_icon_tracelong_line_linear_crtc": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "ui/badge_attention_rd": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   32,
+   32
+  ]
+ },
+ "ui/balloon_bpm_dgr": {
+  "border": [
+   12.0,
+   12.0,
+   12.0,
+   12.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   24,
+   24
+  ]
+ },
+ "ui/bg_base_circle_h48_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   48
+  ]
+ },
+ "ui/bg_base_half_r16_wh": {
+  "border": [
+   21.0,
+   1.0,
+   21.0,
+   25.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   42,
+   26
+  ]
+ },
+ "ui/bg_base_r10_wh": {
+  "border": [
+   14.0,
+   14.0,
+   14.0,
+   14.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   28,
+   28
+  ]
+ },
+ "ui/bg_base_r12_wh": {
+  "border": [
+   16.0,
+   16.0,
+   16.0,
+   16.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   34,
+   34
+  ]
+ },
+ "ui/bg_base_r16_wh": {
+  "border": [
+   21.0,
+   21.0,
+   21.0,
+   21.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   44,
+   44
+  ]
+ },
+ "ui/bg_base_r20_wh": {
+  "border": [
+   24.0,
+   24.0,
+   24.0,
+   24.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   50,
+   50
+  ]
+ },
+ "ui/bg_base_r30_wh": {
+  "border": [
+   34.0,
+   34.0,
+   34.0,
+   34.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   70,
+   70
+  ]
+ },
+ "ui/bg_base_r8_wh": {
+  "border": [
+   11.0,
+   11.0,
+   11.0,
+   11.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   24,
+   24
+  ]
+ },
+ "ui/bg_base_round_h48_wh": {
+  "border": [
+   25.0,
+   0.0,
+   25.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   52,
+   48
+  ]
+ },
+ "ui/bg_base_round_h56_wh": {
+  "border": [
+   33.0,
+   28.0,
+   33.0,
+   28.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   66,
+   56
+  ]
+ },
+ "ui/bg_base_round_h64_wh": {
+  "border": [
+   37.0,
+   0.0,
+   37.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   74,
+   64
+  ]
+ },
+ "ui/bg_base_shadow_r16": {
+  "border": [
+   30.0,
+   30.0,
+   30.0,
+   30.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   60,
+   60
+  ]
+ },
+ "ui/bg_base_shadow_r30": {
+  "border": [
+   42.0,
+   42.0,
+   42.0,
+   42.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   86,
+   86
+  ]
+ },
+ "ui/bg_base_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   4,
+   4
+  ]
+ },
+ "ui/bg_label_rangeselect": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   184,
+   114
+  ]
+ },
+ "ui/bg_tips_lgr": {
+  "border": [
+   28.0,
+   22.0,
+   24.0,
+   22.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   56,
+   48
+  ]
+ },
+ "ui/btn_circle_128_gn": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   142,
+   142
+  ]
+ },
+ "ui/btn_circle_h56_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   72,
+   72
+  ]
+ },
+ "ui/btn_circle_h80_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   96,
+   96
+  ]
+ },
+ "ui/btn_circle_h96_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "ui/btn_close_dbl": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   44,
+   44
+  ]
+ },
+ "ui/btn_close_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   44,
+   44
+  ]
+ },
+ "ui/btn_round_h56_wh": {
+  "border": [
+   39.0,
+   34.0,
+   39.0,
+   34.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   82,
+   72
+  ]
+ },
+ "ui/btn_round_h80_gn": {
+  "border": [
+   51.0,
+   0.0,
+   51.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   106,
+   96
+  ]
+ },
+ "ui/btn_round_h80_wh": {
+  "border": [
+   51.0,
+   0.0,
+   51.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   106,
+   96
+  ]
+ },
+ "ui/btn_round_r16_wh": {
+  "border": [
+   28.0,
+   28.0,
+   28.0,
+   28.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   56,
+   56
+  ]
+ },
+ "ui/eff_btn_circle_h56_a70_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   80,
+   80
+  ]
+ },
+ "ui/eff_btn_round_h80_a70_wh": {
+  "border": [
+   56.0,
+   52.0,
+   56.0,
+   52.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   104
+  ]
+ },
+ "ui/frame_select_r10_wh": {
+  "border": [
+   24.0,
+   24.0,
+   24.0,
+   24.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   48
+  ]
+ },
+ "ui/gauge_base_h48_dbl": {
+  "border": [
+   36.0,
+   0.0,
+   36.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   74,
+   64
+  ]
+ },
+ "ui/icon_back_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   42,
+   42
+  ]
+ },
+ "ui/icon_beat_h112_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "ui/icon_bpm_change_h112_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "ui/icon_caution_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   48
+  ]
+ },
+ "ui/icon_change_h40_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   32,
+   40
+  ]
+ },
+ "ui/icon_check_pk": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   44,
+   34
+  ]
+ },
+ "ui/icon_clipboard_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   34,
+   42
+  ]
+ },
+ "ui/icon_copy_h40_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   40,
+   40
+  ]
+ },
+ "ui/icon_dustbox_h40_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   40,
+   40
+  ]
+ },
+ "ui/icon_infomation_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   8,
+   30
+  ]
+ },
+ "ui/icon_longall_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   48
+  ]
+ },
+ "ui/icon_menu_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   40,
+   34
+  ]
+ },
+ "ui/icon_move_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   48
+  ]
+ },
+ "ui/icon_notes_speed_h112_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "ui/icon_notes_speed_h32_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   32,
+   32
+  ]
+ },
+ "ui/icon_noteslock_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   50,
+   40
+  ]
+ },
+ "ui/icon_notesunlock_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   50,
+   40
+  ]
+ },
+ "ui/icon_overwrite_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   50
+  ]
+ },
+ "ui/icon_play_h52_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   46,
+   52
+  ]
+ },
+ "ui/icon_plus_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   36,
+   36
+  ]
+ },
+ "ui/icon_reflect_hor_h40_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   40,
+   40
+  ]
+ },
+ "ui/icon_reflect_ver_h40_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   40,
+   40
+  ]
+ },
+ "ui/icon_repeeet_h36_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   36,
+   36
+  ]
+ },
+ "ui/icon_restarth36_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   36,
+   36
+  ]
+ },
+ "ui/icon_scale_horizon_h40_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   40,
+   40
+  ]
+ },
+ "ui/icon_setting_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   48,
+   48
+  ]
+ },
+ "ui/icon_stop_h52_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   52,
+   52
+  ]
+ },
+ "ui/icon_swipescroll_h112_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   112,
+   112
+  ]
+ },
+ "ui/icon_testplay_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   52,
+   46
+  ]
+ },
+ "ui/icon_tips_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   26,
+   38
+  ]
+ },
+ "ui/icon_triangle_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   28,
+   22
+  ]
+ },
+ "ui/icon_zoomdown_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   58,
+   56
+  ]
+ },
+ "ui/icon_zoomup_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   58,
+   56
+  ]
+ },
+ "ui/line_dot_h4_wh": {
+  "border": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   8,
+   4
+  ]
+ },
+ "ui/noti_base_round_h64_wh": {
+  "border": [
+   45.0,
+   40.0,
+   45.0,
+   40.0
+  ],
+  "pivot": [
+   0.5,
+   0.5
+  ],
+  "ppu": 1.0,
+  "size": [
+   90,
+   80
+  ]
+ }
+}

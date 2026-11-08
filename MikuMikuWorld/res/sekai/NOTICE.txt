@@ -1,0 +1,14 @@
+Builds MikuMikuWorld/res/sekai, the Project SEKAI asset pack Canvas Editor ships with (CMake
+option CANVAS_BUNDLE_GAME_ASSETS, on by default). Everything in it is SEGA / Colorful Palette /
+Crypton / Fontworks property, taken from three public repositories:
+
+  OpenSekai               https://github.com/cubeww/OpenSekai               UI sprites, SEKAI background
+  SEKAI-Stories           https://github.com/lezzthanthree/SEKAI-Stories    UI sounds, FOT-Rodin fonts
+  pjsekai-overlay-APPEND  https://github.com/TootieJin/pjsekai-overlay-APPEND  skill / FEVER / ALL PERFECT art
+
+    python tools/sekai-assets/build_asset_pack.py <OpenSekai> <SEKAI-Stories> <pjsekai-overlay-APPEND>
+
+(clone them with --depth 1 first). Needs Pillow. Without the pack Canvas draws its own
+stand-ins, so a build without game assets still works (-DCANVAS_BUNDLE_GAME_ASSETS=OFF).
+
+Canvas Editor is a fan-made tool and is not affiliated with SEGA, Colorful Palette or Crypton.

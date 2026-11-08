@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{738f4316-8f7f-462e-ae13-07962fa617d9}</ProjectGuid>
+    <RootNamespace>Project1</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>MikuMikuWorld</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <SourcePath>$(SourcePath)</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level1</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>CANVAS_VERSION=\"0.1.0\";_CRT_SECURE_NO_WARNINGS;_ENABLE_EXTENDED_ALIGNED_STORAGE;_DEBUG</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>../Depends/DirectXMath-master;../Depends/glad/include;../Depends/GLFW/include;../Depends/stb_image;../Depends/miniaudio;../Depends/json;../Depends/stb_vorbis;../Depends/zlib/include</AdditionalIncludeDirectories>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>glfw3.lib;zlibstatic.lib;opengl32.lib;Version.lib;Dwmapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>../Depends/GLFW/lib;../Depends/zlib/lib;../Depends/libzip/lib</AdditionalLibraryDirectories>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)res\" "$(OutDir)res\" /E /Y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level1</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>CANVAS_VERSION=\"0.1.0\";_CRT_SECURE_NO_WARNINGS;_ENABLE_EXTENDED_ALIGNED_STORAGE;</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <AdditionalIncludeDirectories>../Depends/DirectXMath-master;../Depends/glad/include;../Depends/GLFW/include;../Depends/stb_image;../Depends/miniaudio;../Depends/json;../Depends/stb_vorbis;../Depends/zlib/include</AdditionalIncludeDirectories>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <Optimization>MaxSpeed</Optimization>
+      <EnableEnhancedInstructionSet>NotSet</EnableEnhancedInstructionSet>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../Depends/GLFW/lib;../Depends/zlib/lib;../Depends/libzip/lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>glfw3.lib;zlibstatic.lib;opengl32.lib;Version.lib;Dwmapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <EntryPointSymbol>mainCRTStartup</EntryPointSymbol>
+      <AdditionalManifestDependencies>type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' processorArchitecture='amd64' publicKeyToken='6595b64144ccf1df' language='*'</AdditionalManifestDependencies>
+      <LinkTimeCodeGeneration>UseLinkTimeCodeGeneration</LinkTimeCodeGeneration>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy "$(ProjectDir)res\" "$(OutDir)res\" /E /Y</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Depends\glad\src\glad.c" />
+    <ClCompile Include="..\Depends\stb_vorbis\stb_vorbis.c" />
+    <ClCompile Include="Canvas\Core\ChartIO.cpp" />
+    <ClCompile Include="Canvas\Core\ChartIssues.cpp" />
+    <ClCompile Include="Canvas\Core\ChartTransforms.cpp" />
+    <ClCompile Include="Canvas\Core\ExportTargets.cpp" />
+    <ClCompile Include="Canvas\Core\HitSounds.cpp" />
+    <ClCompile Include="Canvas\Core\LevelDataSerializer.cpp" />
+    <ClCompile Include="Canvas\Core\ProfileLink.cpp" />
+    <ClCompile Include="Canvas\Core\SkillFever.cpp" />
+    <ClCompile Include="Canvas\Core\SongProject.cpp" />
+    <ClCompile Include="Canvas\Core\AudioCodecs.cpp" />
+    <ClCompile Include="Canvas\Core\ChartJson.cpp" />
+    <ClCompile Include="Canvas\Core\ZipReader.cpp" />
+    <ClCompile Include="Canvas\Core\ChartFixes.cpp" />
+    <ClCompile Include="Canvas\Core\ChartMetrics.cpp" />
+    <ClCompile Include="Canvas\Core\Paths.cpp" />
+    <ClCompile Include="Canvas\Core\UscSerializer.cpp" />
+    <ClCompile Include="Canvas\Sekai\IntroOverlay.cpp" />
+    <ClCompile Include="Canvas\Sekai\SekaiAssets.cpp" />
+    <ClCompile Include="Canvas\Sekai\SekaiMode.cpp" />
+    <ClCompile Include="Canvas\Sekai\SekaiTransition.cpp" />
+    <ClCompile Include="Canvas\Sekai\UiSounds.cpp" />
+    <ClCompile Include="Canvas\UI\CanvasSettings.cpp" />
+    <ClCompile Include="Canvas\UI\ChartIssuesWindow.cpp" />
+    <ClCompile Include="Canvas\UI\LayersWindow.cpp" />
+    <ClCompile Include="Canvas\UI\ProfileWindow.cpp" />
+    <ClCompile Include="Canvas\UI\PublishWindow.cpp" />
+    <ClCompile Include="Canvas\UI\SongWindow.cpp" />
+    <ClCompile Include="Canvas\Video\MoviePlayer.cpp" />
+    <ClCompile Include="Canvas\Video\VideoExporter.cpp" />
+    <ClCompile Include="Application.cpp" />
+    <ClCompile Include="ApplicationConfiguration.cpp" />
+    <ClCompile Include="Audio\Sound.cpp" />
+    <ClCompile Include="Audio\AudioManager.cpp" />
+    <ClCompile Include="Background.cpp" />
+    <ClCompile Include="BinaryReader.cpp" />
+    <ClCompile Include="BinaryWriter.cpp" />
+    <ClCompile Include="Clipboard.cpp" />
+    <ClCompile Include="CustomScoreJsonSerializer.cpp" />
+    <ClCompile Include="DebugEffectView.cpp" />
+    <ClCompile Include="EffectView.cpp" />
+    <ClCompile Include="File.cpp" />
+    <ClCompile Include="HistoryManager.cpp" />
+    <ClCompile Include="ImGuiManager.cpp" />
+    <ClCompile Include="ImGui\imgui.cpp" />
+    <ClCompile Include="ImGui\imgui_demo.cpp" />
+    <ClCompile Include="ImGui\imgui_draw.cpp" />
+    <ClCompile Include="ImGui\imgui_impl_glfw.cpp" />
+    <ClCompile Include="ImGui\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="ImGui\imgui_stdlib.cpp" />
+    <ClCompile Include="ImGui\imgui_tables.cpp" />
+    <ClCompile Include="ImGui\imgui_widgets.cpp" />
+    <ClCompile Include="InputBinding.cpp" />
+    <ClCompile Include="IO.cpp" />
+    <ClCompile Include="Jacket.cpp" />
+    <ClCompile Include="JsonIO.cpp" />
+    <ClCompile Include="Language.cpp" />
+    <ClCompile Include="Localization.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Math.cpp" />
+    <ClCompile Include="MinMax.cpp" />
+    <ClCompile Include="NativeScoreSerializer.cpp" />
+    <ClCompile Include="Note.cpp" />
+    <ClCompile Include="NotesFilter.cpp" />
+    <ClCompile Include="AggregateNotesFilter.cpp" />
+    <ClCompile Include="NoteSkin.cpp" />
+    <ClCompile Include="OpenGlLoader.cpp" />
+    <ClCompile Include="NotesPreset.cpp" />
+    <ClCompile Include="Particle.cpp" />
+    <ClCompile Include="PreviewData.cpp" />
+    <ClCompile Include="PreviewEngine.cpp" />
+    <ClCompile Include="Rendering\Camera.cpp" />
+    <ClCompile Include="Rendering\Framebuffer.cpp" />
+    <ClCompile Include="Rendering\Renderer.cpp" />
+    <ClCompile Include="Rendering\Shader.cpp" />
+    <ClCompile Include="Rendering\Texture.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="Score.cpp" />
+    <ClCompile Include="ScoreContext.cpp" />
+    <ClCompile Include="ScoreEditorTimeline.cpp" />
+    <ClCompile Include="ScoreEditorWindows.cpp" />
+    <ClCompile Include="ScorePreview.cpp" />
+    <ClCompile Include="ScoreSerializeWindow.cpp" />
+    <ClCompile Include="ScoreSerializer.cpp" />
+    <ClCompile Include="ScoreStats.cpp" />
+    <ClCompile Include="Sonolus.cpp" />
+    <ClCompile Include="SonolusSerializer.cpp" />
+    <ClCompile Include="Stopwatch.cpp" />
+    <ClCompile Include="SusExporter.cpp" />
+    <ClCompile Include="SusParser.cpp" />
+    <ClCompile Include="SusSerializer.cpp" />
+    <ClCompile Include="Tempo.cpp" />
+    <ClCompile Include="ScoreEditor.cpp" />
+    <ClCompile Include="UI.cpp" />
+    <ClCompile Include="Utilities.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Canvas\CanvasBranding.h" />
+    <ClInclude Include="Canvas\Core\ChartIO.h" />
+    <ClInclude Include="Canvas\Core\ChartIssues.h" />
+    <ClInclude Include="Canvas\Core\ChartTransforms.h" />
+    <ClInclude Include="Canvas\Core\ExportTargets.h" />
+    <ClInclude Include="Canvas\Core\HitSounds.h" />
+    <ClInclude Include="Canvas\Core\LevelDataSerializer.h" />
+    <ClInclude Include="Canvas\Core\ProfileLink.h" />
+    <ClInclude Include="Canvas\Core\SkillFever.h" />
+    <ClInclude Include="Canvas\Core\SongProject.h" />
+    <ClInclude Include="Canvas\Core\AudioCodecs.h" />
+    <ClInclude Include="Canvas\Core\ChartJson.h" />
+    <ClInclude Include="Canvas\Core\ChartFixes.h" />
+    <ClInclude Include="Canvas\Core\ChartMetrics.h" />
+    <ClInclude Include="Canvas\Core\ZipReader.h" />
+    <ClInclude Include="Canvas\Core\Paths.h" />
+    <ClInclude Include="Canvas\Core\UscSerializer.h" />
+    <ClInclude Include="Canvas\Core\Version.h" />
+    <ClInclude Include="Canvas\Sekai\IntroOverlay.h" />
+    <ClInclude Include="Canvas\Sekai\SekaiAssets.h" />
+    <ClInclude Include="Canvas\Sekai\SekaiMode.h" />
+    <ClInclude Include="Canvas\Sekai\SekaiTransition.h" />
+    <ClInclude Include="Canvas\Sekai\UiSounds.h" />
+    <ClInclude Include="Canvas\UI\CanvasSettings.h" />
+    <ClInclude Include="Canvas\UI\CanvasStrings.h" />
+    <ClInclude Include="Canvas\UI\ChartIssuesWindow.h" />
+    <ClInclude Include="Canvas\UI\LayersWindow.h" />
+    <ClInclude Include="Canvas\UI\ProfileWindow.h" />
+    <ClInclude Include="Canvas\UI\PublishWindow.h" />
+    <ClInclude Include="Canvas\UI\SongWindow.h" />
+    <ClInclude Include="Canvas\Video\MoviePlayer.h" />
+    <ClInclude Include="Canvas\Video\VideoExporter.h" />
+    <ClInclude Include="Application.h" />
+    <ClInclude Include="ApplicationConfiguration.h" />
+    <ClInclude Include="Audio\Sound.h" />
+    <ClInclude Include="Audio\AudioManager.h" />
+    <ClInclude Include="Background.h" />
+    <ClInclude Include="BinaryReader.h" />
+    <ClInclude Include="BinaryWriter.h" />
+    <ClInclude Include="Clipboard.h" />
+    <ClInclude Include="CustomScoreJsonSerializer.h" />
+    <ClInclude Include="DebugEffectView.h" />
+    <ClInclude Include="EffectView.h" />
+    <ClInclude Include="MinMax.h" />
+    <ClInclude Include="Colors.h" />
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="DefaultLanguage.h" />
+    <ClInclude Include="File.h" />
+    <ClInclude Include="HistoryManager.h" />
+    <ClInclude Include="IconsFontAwesome5.h" />
+    <ClInclude Include="ImageCrop.h" />
+    <ClInclude Include="ImGuiManager.h" />
+    <ClInclude Include="ImGui\imconfig.h" />
+    <ClInclude Include="ImGui\imgui.h" />
+    <ClInclude Include="ImGui\imgui_impl_glfw.h" />
+    <ClInclude Include="ImGui\imgui_impl_opengl3.h" />
+    <ClInclude Include="ImGui\imgui_internal.h" />
+    <ClInclude Include="ImGui\imgui_stdlib.h" />
+    <ClInclude Include="ImGui\imstb_rectpack.h" />
+    <ClInclude Include="ImGui\imstb_textedit.h" />
+    <ClInclude Include="ImGui\imstb_truetype.h" />
+    <ClInclude Include="InputBinding.h" />
+    <ClInclude Include="IO.h" />
+    <ClInclude Include="NoteSkin.h" />
+    <ClInclude Include="Particle.h" />
+    <ClInclude Include="PreviewData.h" />
+    <ClInclude Include="PreviewEngine.h" />
+    <ClInclude Include="ScorePreview.h" />
+    <ClInclude Include="ScoreSerializeWindow.h" />
+    <ClInclude Include="ScoreSerializer.h" />
+    <ClInclude Include="Jacket.h" />
+    <ClInclude Include="JsonIO.h" />
+    <ClInclude Include="Language.h" />
+    <ClInclude Include="Localization.h" />
+    <ClInclude Include="MathUtils.h" />
+    <ClInclude Include="Audio\miniaudio.h" />
+    <ClInclude Include="NativeScoreSerializer.h" />
+    <ClInclude Include="Note.h" />
+    <ClInclude Include="NotesFilter.h" />
+    <ClInclude Include="AggregateNotesFilter.h" />
+    <ClInclude Include="NoteTypes.h" />
+    <ClInclude Include="NotesPreset.h" />
+    <ClInclude Include="RenderDebugStats.h" />
+    <ClInclude Include="Rendering\AnchorType.h" />
+    <ClInclude Include="Rendering\Camera.h" />
+    <ClInclude Include="Rendering\Framebuffer.h" />
+    <ClInclude Include="Rendering\Quad.h" />
+    <ClInclude Include="Rendering\Renderer.h" />
+    <ClInclude Include="Rendering\Shader.h" />
+    <ClInclude Include="Rendering\Sprite.h" />
+    <ClInclude Include="Rendering\Texture.h" />
+    <ClInclude Include="Rendering\VertexBuffer.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="ResourceManager.h" />
+    <ClInclude Include="Score.h" />
+    <ClInclude Include="ScoreContext.h" />
+    <ClInclude Include="ScoreEditorTimeline.h" />
+    <ClInclude Include="ScoreEditorWindows.h" />
+    <ClInclude Include="ScoreStats.h" />
+    <ClInclude Include="Sonolus.h" />
+    <ClInclude Include="SonolusSerializer.h" />
+    <ClInclude Include="Stopwatch.h" />
+    <ClInclude Include="SUS.h" />
+    <ClInclude Include="SusExporter.h" />
+    <ClInclude Include="SusParser.h" />
+    <ClInclude Include="SusSerializer.h" />
+    <ClInclude Include="Tempo.h" />
+    <ClInclude Include="ScoreEditor.h" />
+    <ClInclude Include="TimelineMode.h" />
+    <ClInclude Include="UI.h" />
+    <ClInclude Include="Utilities.h" />
+    <ClInclude Include="Audio\Waveform.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="mmw_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MikuMikuWorld.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Rendering\VertexBuffer.inl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
