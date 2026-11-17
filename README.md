@@ -1,6 +1,7 @@
 # Canvas Editor
 
-Chart Editor for Project SEKAI, You can open almost any file type (as long as it's pjsk.), and adds a lot more features then normal MMW!
+Chart Editor for Project SEKAI and Sonolus. 
+Supports almost any file type (as long as it's PJSK), and adds a lot more features than the normal MikuMikuWorld!
 
 Some online features are coming soon, Like Browse!
 
@@ -15,7 +16,8 @@ Some online features are coming soon, Like Browse!
 | macOS (Intel) | `CanvasEditor-x-macos-x86_64.zip` |
 | Linux (x64) | `CanvasEditor-x-linux-x64.zip` |
 
-Note: The builds are not code-signed, so macOS and Windows may warn the first time you open them.
+> [!NOTE]
+> The builds are not code-signed, so macOS and Windows may warn the first time you open them.
 
 ## What Canvas adds
 
