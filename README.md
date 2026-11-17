@@ -10,10 +10,10 @@ Some online features are coming soon, Like Browse!
 
 | Platform | File |
 |---|---|
-| Windows (x64) | `CanvasEditor-1.3.0b-windows-x64.zip` |
-| macOS (Apple silicon) | `CanvasEditor-1.3.0b-macos-arm64.zip` |
-| macOS (Intel) | `CanvasEditor-1.3.0b-macos-x86_64.zip` |
-| Linux (x64) | `CanvasEditor-1.3.0b-linux-x64.zip` |
+| Windows (x64) | `CanvasEditor-x-windows-x64.zip` |
+| macOS (Apple silicon) | `CanvasEditor-x-macos-arm64.zip` |
+| macOS (Intel) | `CanvasEditor-x-macos-x86_64.zip` |
+| Linux (x64) | `CanvasEditor-x-linux-x64.zip` |
 
 Note: The builds are not code-signed, so macOS and Windows may warn the first time you open them.
 
