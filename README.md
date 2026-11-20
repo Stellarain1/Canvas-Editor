@@ -1,6 +1,7 @@
 # Canvas Editor
 
-Chart Editor for Project SEKAI, You can open almost any file type (as long as it's pjsk.), and adds a lot more features then normal MMW!
+Chart Editor for Project SEKAI and Sonolus. 
+Supports almost any file type (as long as it's PJSK), and adds a lot more features than the normal MikuMikuWorld!
 
 Some online features are coming soon, Like Browse!
 
@@ -10,12 +11,13 @@ Some online features are coming soon, Like Browse!
 
 | Platform | File |
 |---|---|
-| Windows (x64) | `CanvasEditor-1.3.0b-windows-x64.zip` |
-| macOS (Apple silicon) | `CanvasEditor-1.3.0b-macos-arm64.zip` |
-| macOS (Intel) | `CanvasEditor-1.3.0b-macos-x86_64.zip` |
-| Linux (x64) | `CanvasEditor-1.3.0b-linux-x64.zip` |
+| Windows (x64) | `CanvasEditor-x-windows-x64.zip` |
+| macOS (Apple silicon) | `CanvasEditor-x-macos-arm64.zip` |
+| macOS (Intel) | `CanvasEditor-x-macos-x86_64.zip` |
+| Linux (x64) | `CanvasEditor-x-linux-x64.zip` |
 
-Note: The builds are not code-signed, so macOS and Windows may warn the first time you open them.
+> [!NOTE]
+> The builds are not code-signed, so macOS and Windows may warn the first time you open them.
 
 ## What Canvas adds
 
@@ -26,6 +28,18 @@ Note: The builds are not code-signed, so macOS and Windows may warn the first ti
   Canvas's own file format is `.ce` and `.mmws` still opens and exports fine.
 - **Score Preview** with the game's own UI art, card cut-ins, FEVER and SUPER FEVER, and the game's sounds.
 - **Video export** of the preview to `.mp4`. (up to 4K 60FPS!)
+
+## Screenshots
+### SEKAI UI (Dark)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ceddff8f-a9b6-44f8-8a85-800bccff8371" />
+
+
+### SEKAI UI (Light)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ad4281f-8ea2-4b18-94eb-f287dd2005b4" />
+
+### Classic UI (MikuMikuWorld)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82c91126-94d0-4106-ace1-91c7ba0f73f0" />
+
 
 ## Credits and licenses
 
